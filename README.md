@@ -10,8 +10,8 @@ I created this repository to document my progress, share resources, and build a 
 ✅ Learn and implement machine learning models  
 ✅ Explore deep learning techniques  
 
-# 📖 Topics to be covered 
-- # Day - 01: Python Fundamental
+## 📖 Topics to be covered  
+### Day - 01: Python Fundamental
     - Output
     - Data Type
     - Variables
