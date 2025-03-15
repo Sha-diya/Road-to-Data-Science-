@@ -5,10 +5,10 @@ Welcome to my Data Science learning journey! This repository will be a structure
 I created this repository to document my progress, share resources, and build a strong foundation in Data Science. Whether you are a beginner or someone looking to revise key concepts, this can be a helpful guide.
 
 # 🎯 Goals of this Repository are: 
-✅ Strengthen Python programming skills
-✅ Build hands-on data science projects
-✅ Learn and implement machine learning models
-✅ Explore deep learning techniques
+✅ Strengthen Python programming skills  
+✅ Build hands-on data science projects  
+✅ Learn and implement machine learning models  
+✅ Explore deep learning techniques  
 
 # 📖 Topics to be covered 
 - # Day - 01: Python Fundamental
