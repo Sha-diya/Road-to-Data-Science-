@@ -37,7 +37,7 @@ This repository covers the essential building blocks of Python, with hands-on ex
 Sharpen your Python skills with these exercises:
 1. Print strings in a specific format.  
 2. Convert Celsius to Fahrenheit.  
-3. Swap two numbers without using using predefined function.  
+3. Swap two numbers without using any keywords.  
 4. Calculate the Euclidean distance between two coordinates.  
 5. Compute simple interest.  
 6. Determine the number of dogs and chickens based on heads and legs.  
