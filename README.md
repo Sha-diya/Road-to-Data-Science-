@@ -11,7 +11,7 @@ I created this repository to document my progress, share resources, and build a 
 ✅ Explore deep learning techniques  
 
 ## 📖 Topics to be covered  
-### Day - 01: Python Fundamental
+### 🗓 Day - 01: Python Fundamentals
     - Output
     - Data Type
     - Variables
