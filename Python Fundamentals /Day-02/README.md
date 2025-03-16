@@ -29,9 +29,8 @@ Explore built-in modules for various functionalities:
 ## 📝 Practice Problems
 Enhance your problem-solving skills with these exercises:
 ✅ Calculate population growth over 10 years  
-✅ Check if three angles form a valid triangle  
+✅ Check if three angles form a valid triangle    
 ✅ Implement a menu-driven calculator  
-✅ Print number patterns using loops  
 ✅ Generate random numbers and manipulate them  
 
 💡 **Each section includes clear explanations, code snippets, and outputs to make learning easy and engaging!**
