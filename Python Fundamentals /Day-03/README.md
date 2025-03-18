@@ -5,7 +5,7 @@ This repository contains a collection of Python exercises and solutions aimed at
 ### 1. **Sequence Sum Calculation:**
 This section includes code to calculate the sum of a sequence of the form:
 \[
-{1/1! + 2/2! + 3/3! + ...... + n/n!}
+\1/1! + 2/2! + 3/3! + ---- + n/n!}
 \]
 By using loops and factorial functions, the sequence sum is calculated for a given integer `n`.
 
@@ -36,9 +36,49 @@ Comprehensive coverage of string operations is provided, including:
   - **String formatting** using **`format()`** method for customized output.
 
 ### 6. **Problem Solving:**
-Several example problems are presented to practice basic algorithmic challenges:
-- **Printing patterns** based on a given input.
-- **Solving basic algorithmic challenges** with simple logic and loops.
+This section presents various example problems and solutions to help practice basic algorithmic challenges and Python concepts. Here are some of the problems included:
+
+- **Problem 1: Sequence Sum Calculation**
+  - Calculate the sum of the sequence \(\{1/1! + 2/2! + 3/3! + ----- + n/n!}\) for a given integer `n`.
+
+- **Problem 2: Nested Loops for Unique Pairs**
+  - Print unique pairs `(i, j)` where `i != j` for `i` and `j` in the range `n`.
+
+- **Problem 3: Pattern Printing**
+  - Print various patterns such as asterisks (`*`) and numeric patterns using nested loops.
+
+- **Problem 4: Loop Control Statements (Break, Continue, Pass)**
+  - Demonstrate the use of the `break`, `continue`, and `pass` statements in loops with practical examples.
+
+- **Problem 5: Prime Numbers Finder**
+  - Find and print all prime numbers within a given range.
+
+- **Problem 6: String Operations**
+  - Perform various string manipulations such as slicing, searching, and formatting using built-in Python string functions.
+
+- **Problem 7: Symmetrical String Check**
+  - Check if a given string is symmetrical (i.e., both halves of the string are identical).
+
+- **Problem 8: Reverse Words in a String**
+  - Reverse the order of words in a given string.
+
+- **Problem 9: Uncommon Words from Two Strings**
+  - Find and return the uncommon words between two given strings.
+
+- **Problem 10: Word Location in a String**
+  - Find the location (index) of a specific word in a sentence.
+
+- **Problem 11: Remove Duplicate Characters from a String**
+  - Remove all duplicate characters from a string while retaining the first occurrence of each character.
+
+- **Problem 12: Append Second String in the Middle of First String**
+  - Insert the second string into the middle of the first string at the appropriate position.
+
+- **Problem 13: Sort Characters in a String**
+  - Sort the characters of a string in ascending order.
+
+- **Problem 14: Check if a String is Symmetrical**
+  - Determine whether the string is symmetrical by checking if both halves of the string are equal.
 
 ---
 
