@@ -5,7 +5,7 @@ This repository contains a collection of Python exercises and solutions aimed at
 ### 1. **Sequence Sum Calculation:**
 This section includes code to calculate the sum of a sequence of the form:
 \[
-\text{1/1! + 2/2! + 3/3! + \ldots + n/n!}
+{1/1! + 2/2! + 3/3! + ...... + n/n!}
 \]
 By using loops and factorial functions, the sequence sum is calculated for a given integer `n`.
 
