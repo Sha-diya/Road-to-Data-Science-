@@ -22,14 +22,12 @@ I created this repository to document my progress, share resources, and build a 
     - And finally, practice some problems related to the topics
 
 ### Day - 02: Python Fundamentals
-    - Output
-    - Data Type
-    - Variables
-    - Keyword and identifiers
-    - User Input
-    - Type Conversion
-    - Literals
-    - And finally, practice some problems related to the topics
+    - Operators in Python
+    - Conditional Statements
+    - Loops in Python
+    - Modules in Python
+    - Practice Problems
+    - Practice problem on all the topics
 
 # 🚀 Let's Learn Together!
 Follow my journey and feel free to suggest improvements! Happy Coding! 😊
