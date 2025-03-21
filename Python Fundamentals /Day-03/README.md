@@ -1,4 +1,4 @@
-## Python Fundamentals and Problem-Solving
+## Day_03: Python Fundamentals and Problem-Solving
 
 This repository contains a collection of Python exercises and solutions aimed at reinforcing fundamental programming concepts. The code examples are organized into several key areas for easy reference and learning.
 
