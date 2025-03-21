@@ -151,3 +151,19 @@ This Jupyter Notebook, titled "Day_04.ipynb," is part of the "Python Fundamental
     list2 = ['a', 'b', 'c']
     combined = list(zip(list1, list2))
     print(combined)
+
+## How to Use
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Sha-diya/Road-to-Data-Science-.git
+
+2. Navigate to the project directory:
+   ```sh
+   cd Road-to-Data-Science-/Python Fundamentals/Day-04
+
+3. Open the Jupyter Notebook:
+   ```sh
+   jupyter notebook Day_04.ipynb
+
+4. Follow the instructions and examples provided in the notebook to learn about and practice working with lists in Python.
