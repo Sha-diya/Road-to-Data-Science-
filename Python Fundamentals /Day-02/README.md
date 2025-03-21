@@ -1,4 +1,4 @@
-# 📝 Python Basics: Concepts & Exercises
+# 📝 Day_02: Python Basics: Concepts & Exercises
 This repository covers fundamental Python concepts with hands-on exercises and examples to reinforce learning. Each section includes code snippets, explanations, and outputs for clarity.
 
 ## 🖩 Operators in Python
