@@ -20,7 +20,16 @@ I created this repository to document my progress, share resources, and build a 
     - Type Conversion
     - Literals
     - And finally, practice some problems related to the topics
-      
+
+### Day - 02: Python Fundamentals
+    - Output
+    - Data Type
+    - Variables
+    - Keyword and identifiers
+    - User Input
+    - Type Conversion
+    - Literals
+    - And finally, practice some problems related to the topics
 
 # 🚀 Let's Learn Together!
 Follow my journey and feel free to suggest improvements! Happy Coding! 😊
