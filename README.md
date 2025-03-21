@@ -29,5 +29,26 @@ I created this repository to document my progress, share resources, and build a 
     - Practice Problems
     - Practice problem on all the topics
 
+### Day - 03: Python Fundamentals
+    - Sequence Sum Calculation
+    - Nested Loops
+    - Loop Control Statements
+    - Prime Numbers
+    - String Operations
+    - Problem Solving
+
+### Day - 04: Python Fundamentals
+    - Introduction to Lists
+    - Characteristics of Lists
+    - Creating Lists
+    - Accessing List Items
+    - Modifying Lists
+    - Deleting Items from Lists
+    - Operations on Lists
+    - List Functions
+    - List Comprehension
+    - Traversing Lists
+    - Using zip()
+
 # 🚀 Let's Learn Together!
 Follow my journey and feel free to suggest improvements! Happy Coding! 😊
